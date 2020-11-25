@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17280740",
+      "name": "咖啡",
+      "font_class": "Coffee",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    }
+  ]
+}
